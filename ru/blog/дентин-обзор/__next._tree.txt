@@ -1,0 +1,10 @@
+:HL["/_next/static/chunks/1khzkni0w7t7x.css","style"]
+:HL["/fonts/open-sans-400-cyrillic.e2fc6d5065.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/media/dentin-overview-568.07e8996ebd.webp","image",{"fetchPriority":"high","imageSrcSet":"/media/dentin-overview-480.07e8996ebd.webp 480w, /media/dentin-overview-568.07e8996ebd.webp 568w","imageSizes":"(max-width: 568px) 100vw, 568px"}]
+:HL["/assets/images/ivory-graft-logo.svg","image"]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":{"n":"slug","t":"d","k":"%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D0%BD-%D0%BE%D0%B1%D0%B7%D0%BE%D1%80","s":[]},"h":65632,"c":"$Q5"}]]
+3:[["children",{"s":"blog","h":131168,"c":"$Q4"}]]
+2:[["children",{"s":"ru","h":131168,"c":"$Q3"}]]
+1:[["children",{"s":"(ru)","h":131184,"c":"$Q2"}]]
+0:{"b":"2DT6XTVzrwnGSCtA-ySA7","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

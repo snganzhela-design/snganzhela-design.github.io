@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/1khzkni0w7t7x.css","style"]
+:HL["/fonts/open-sans-400-latin.340be52e4b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/media/dr-avi-kuperschlag-960.bd34343160.webp","image",{"fetchPriority":"high","imageSrcSet":"/media/dr-avi-kuperschlag-480.bd34343160.webp 480w, /media/dr-avi-kuperschlag-640.bd34343160.webp 640w, /media/dr-avi-kuperschlag-960.bd34343160.webp 960w","imageSizes":"(max-width: 1024px) 100vw, 1024px"}]
+:HL["/assets/images/ivory-graft-logo.svg","image"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"socket-preservation-with-ivory-graft-and-free-gingival-graft-tooth-11","s":[]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":"educations","h":131168,"c":"$Q3"}]]
+1:[["children",{"s":"(en)","h":131184,"c":"$Q2"}]]
+0:{"b":"2DT6XTVzrwnGSCtA-ySA7","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

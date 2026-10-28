@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/1khzkni0w7t7x.css","style"]
+:HL["/fonts/open-sans-400-cyrillic.e2fc6d5065.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/media/front-hero-761.70302d917c.webp","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/media/front-hero-640.70302d917c.avif 640w, /media/front-hero-761.70302d917c.avif 761w","imageSizes":"100vw"}]
+:HL["/assets/images/ivory-graft-logo.svg","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"ru","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"(ru)","h":112,"c":"$Q2"}]]
+0:{"b":"2DT6XTVzrwnGSCtA-ySA7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

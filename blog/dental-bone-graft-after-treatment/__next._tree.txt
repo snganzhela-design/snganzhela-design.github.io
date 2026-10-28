@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/1khzkni0w7t7x.css","style"]
+:HL["/fonts/open-sans-400-latin.340be52e4b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/media/dental-bone-graft-after-treatment-571.8be9a51e53.webp","image",{"fetchPriority":"high","imageSrcSet":"/media/dental-bone-graft-after-treatment-480.8be9a51e53.webp 480w, /media/dental-bone-graft-after-treatment-571.8be9a51e53.webp 571w","imageSizes":"(max-width: 571px) 100vw, 571px"}]
+:HL["/assets/images/ivory-graft-logo.svg","image"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"dental-bone-graft-after-treatment","s":[]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":"blog","h":131168,"c":"$Q3"}]]
+1:[["children",{"s":"(en)","h":131184,"c":"$Q2"}]]
+0:{"b":"2DT6XTVzrwnGSCtA-ySA7","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/1khzkni0w7t7x.css","style"]
+:HL["/fonts/open-sans-400-cyrillic.e2fc6d5065.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/assets/images/ivory-graft-logo.svg","image"]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":{"n":"slug","t":"d","k":"%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BA%D1%81%D0%B5%D0%BD%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BA","s":[]},"h":65632,"c":"$Q5"}]]
+3:[["children",{"s":"educations","h":131168,"c":"$Q4"}]]
+2:[["children",{"s":"ru","h":131168,"c":"$Q3"}]]
+1:[["children",{"s":"(ru)","h":131184,"c":"$Q2"}]]
+0:{"b":"2DT6XTVzrwnGSCtA-ySA7","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
