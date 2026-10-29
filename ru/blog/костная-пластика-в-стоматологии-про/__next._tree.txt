@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/1khzkni0w7t7x.css","style"]
+:HL["/_next/static/chunks/1kjohu3bac7sb.css","style"]
 :HL["/fonts/open-sans-400-cyrillic.e2fc6d5065.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/media/dental-bone-graft-procedure-575.4afb383d56.webp","image",{"fetchPriority":"high","imageSrcSet":"/media/dental-bone-graft-procedure-480.4afb383d56.webp 480w, /media/dental-bone-graft-procedure-575.4afb383d56.webp 575w","imageSizes":"(max-width: 575px) 100vw, 575px"}]
 :HL["/assets/images/ivory-graft-logo.svg","image"]
@@ -7,4 +7,4 @@
 3:[["children",{"s":"blog","h":131168,"c":"$Q4"}]]
 2:[["children",{"s":"ru","h":131168,"c":"$Q3"}]]
 1:[["children",{"s":"(ru)","h":131184,"c":"$Q2"}]]
-0:{"b":"2DT6XTVzrwnGSCtA-ySA7","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"RMZ2MhXIihNmPb7on_xgE","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

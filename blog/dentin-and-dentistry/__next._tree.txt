@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/1khzkni0w7t7x.css","style"]
+:HL["/_next/static/chunks/1kjohu3bac7sb.css","style"]
 :HL["/fonts/open-sans-400-latin.340be52e4b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/media/dentin-endodontic-treatment-considerations-574.20ceecf04b.webp","image",{"fetchPriority":"high","imageSrcSet":"/media/dentin-endodontic-treatment-considerations-480.20ceecf04b.webp 480w, /media/dentin-endodontic-treatment-considerations-574.20ceecf04b.webp 574w","imageSizes":"(max-width: 574px) 100vw, 574px"}]
 :HL["/assets/images/ivory-graft-logo.svg","image"]
@@ -6,4 +6,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"dentin-and-dentistry","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"blog","h":131168,"c":"$Q3"}]]
 1:[["children",{"s":"(en)","h":131184,"c":"$Q2"}]]
-0:{"b":"2DT6XTVzrwnGSCtA-ySA7","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"RMZ2MhXIihNmPb7on_xgE","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
